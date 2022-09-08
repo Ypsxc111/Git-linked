@@ -1,4 +1,4 @@
-***# Git-learning diary***
+# <center>Git-learning diary
 1.创建本地分支:git branch "分支名"  
 example:git branch first-branch
 ---
